@@ -20,8 +20,8 @@
       "protocol": "vless",
       "settings": {
         "vnext": [{
-        "address": "sni.cloudflaressl.com", 
-        "port": 2053,
+        "address": "188.114.98.0", 
+        "port": 443,
         "users": [{"id": "0f0b7f69-78e1-4e9e-8b35-0986444613e4",
 		"encryption": "none"
 			}]
