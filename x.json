@@ -32,7 +32,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "bold-term-1ac5.notica9625.workers.dev",
+          "serverName": "alireza-disk-6058.gakphkso.workers.dev",
           "alpn": [
             "http/1.1"
           ],
@@ -41,7 +41,7 @@
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "bold-term-1ac5.notica9625.workers.dev"
+            "Host": "alireza-disk-6058.gakphkso.workers.dev"
           }
         }
       }
